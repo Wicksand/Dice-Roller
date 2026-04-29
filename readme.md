@@ -22,6 +22,7 @@ To recreate the development environment, you need the following software and/or 
 
 * Dowload the Oracle java development kit
 * Download the Koltin Programming Language compiler
+* Add the koltin compiler to your computers variable path
 * Download VS code
 * Add the following extensions to prepair the VS code koltin programming environment: (kotlin Language Server)(Code Runner)(Kotlin Language)
 * Create a new file with a name ending in .kt

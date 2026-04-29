@@ -27,7 +27,7 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |Date      |Start Time|Category|Description                                 |Total Minutes|
 |----------|----------|:------:|--------------------------------------------|:-----------:|
 |  4/27   |     9:50 |   IM   | Downloaded and tested programming environment   | 65         |
-|          |          |        |                                            |             |
+|  4/28 |    11:30    |   IM   |fixed run bug and learned + practiced variable   | 66         |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
