@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="practice_things">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/practice_things/hello_world.jar!/" />
+      <root url="jar://$PROJECT_DIR$/practice_things/var_val.jar!/" />
+      <root url="jar://$PROJECT_DIR$/practice_things/Kotlin_math.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
